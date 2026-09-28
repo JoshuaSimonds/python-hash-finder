@@ -1,1 +1,1 @@
-# python-hash-finder
+# python-hasher
