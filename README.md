@@ -1,9 +1,9 @@
 # python-hasher
 
-hash types:
-*sha-256
-*sha-512
-*md5
+hash types:<br><br>
+*sha-256<br>
+*sha-512<br>
+*md5<br>
 *sha-1
-
+<h3>hasher</h3>
 run hash.py, select hash type [1-4], enter text you want hashed. 
